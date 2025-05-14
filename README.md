@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zxs731-mcp-client-gradioui-badge.png)](https://mseep.ai/app/zxs731-mcp-client-gradioui)
+
 # MCP_Client_GradioUI
 
 ## MCP Server run: python mcp_server_txt2sql.py
